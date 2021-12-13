@@ -8,7 +8,7 @@ import fullCreativeTest.base.TestBaseSetup;
 
 public class Task2 extends TestBaseSetup{
 
-	@Test(description="Date Picker", enabled=false)
+	@Test(description="Date Picker")
 	public void test1() {
 		
 		String date1 = "2022-01-31";
